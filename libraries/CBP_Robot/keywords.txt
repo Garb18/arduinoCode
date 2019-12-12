@@ -1,0 +1,58 @@
+#######################################
+# Syntax Coloring Map For CBPLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+void turnRight(float time);
+void turnLeft(float time);
+void reallyStop();
+void moveForward(float time);
+void moveForwardStep(float time);
+void moveBackward(float time);
+void setSpeed(int val);
+void spinToRight(float time);
+void spinToRightStep(float time);
+boolean isObstacleInRange();
+void setRange(int rrange);
+void halt(float time);
+void initRobot();
+void initRobotX();
+void setDebug(boolean val);
+void pause(float time);
+boolean obstacleDetected();
+void moveForwardKill();
+
+
+turnRight	KEYWORD2
+turnLeft	KEYWORD2
+reallyStop	KEYWORD2
+moveForward	KEYWORD2
+moveForwardStep	KEYWORD2
+moveBackward	KEYWORD2
+setSpeed	KEYWORD2
+spinToRight	KEYWORD2
+spinToRightStep	KEYWORD2
+isObstacleInRange	KEYWORD2
+setRange	KEYWORD2
+halt	KEYWORD2
+initRobot	KEYWORD2
+initRobotX	KEYWORD2
+setDebug KEYWORD2
+pause KEYWORD2
+obstacleDetected KEYWORD2
+moveForwardKill KEYWORD2
+
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
